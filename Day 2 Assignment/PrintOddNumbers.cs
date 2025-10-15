@@ -2,12 +2,16 @@
 
 namespace AssignmentApp
 {
-    public class PrintFirst20
+    public class PrintOddNumbers
     {
         public void Execute()
         {
-            for (int i = 1; i <= 20; i++)
+            int i = 1;
+            while (i < 50)
+            {
                 Console.WriteLine(i);
+                i += 2;
+            }
         }
     }
 }
