@@ -1,0 +1,11 @@
+C:\Users\adarsh.s\source\repos\MultiLayeredApp\DataAccess\bin\Debug\net9.0\DataAccess.deps.json
+C:\Users\adarsh.s\source\repos\MultiLayeredApp\DataAccess\bin\Debug\net9.0\DataAccess.dll
+C:\Users\adarsh.s\source\repos\MultiLayeredApp\DataAccess\bin\Debug\net9.0\DataAccess.pdb
+C:\Users\adarsh.s\source\repos\MultiLayeredApp\DataAccess\obj\Debug\net9.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adarsh.s\source\repos\MultiLayeredApp\DataAccess\obj\Debug\net9.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\adarsh.s\source\repos\MultiLayeredApp\DataAccess\obj\Debug\net9.0\DataAccess.AssemblyInfo.cs
+C:\Users\adarsh.s\source\repos\MultiLayeredApp\DataAccess\obj\Debug\net9.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\adarsh.s\source\repos\MultiLayeredApp\DataAccess\obj\Debug\net9.0\DataAccess.dll
+C:\Users\adarsh.s\source\repos\MultiLayeredApp\DataAccess\obj\Debug\net9.0\refint\DataAccess.dll
+C:\Users\adarsh.s\source\repos\MultiLayeredApp\DataAccess\obj\Debug\net9.0\DataAccess.pdb
+C:\Users\adarsh.s\source\repos\MultiLayeredApp\DataAccess\obj\Debug\net9.0\ref\DataAccess.dll
