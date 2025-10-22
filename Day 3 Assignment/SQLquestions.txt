@@ -1,0 +1,83 @@
+CREATE TABLE: Creates an Employees table with columns for EmployeeID, FirstName, LastName, Department, and Salary.
+
+	CREATE TABLE Employees (
+		EmployeeID INT IDENTITY(1,1) PRIMARY KEY,
+		FirstName VARCHAR(50),
+		LastName VARCHAR(50),
+		Department VARCHAR(100),
+		Salary DECIMAL(10,2)
+	);
+
+INSERT: Adds three employee records to the table.
+
+	INSERT INTO Employees (FirstName, LastName, Department, Salary)
+	VALUES
+	('Tom', 'Hanks', 'HR', 55000.00),
+	('Jerry', 'Smith', 'IT', 65000.00),
+	('Alice', 'Johnson', 'Finance', 72000.50);
+
+
+SELECT: Shows different ways to query data:
+Select all columns and rows
+
+	SELECT * FROM Employees;
+
+
+Select specific columns
+
+	SELECT FirstName, LastName, Salary
+	FROM Employees;
+
+Select with a WHERE clause to filter results
+
+What is the purpose of the IDENTITY keyword in the CREATE TABLE statement?
+
+	In SQL Server, the IDENTITY keyword is used to make a column auto-increment 
+	automatically whenever a new row is inserted.
+
+Write a SELECT statement to retrieve only the FirstName and Salary of all employees.
+
+	SELECT FirstName, Salary
+	FROM Employees;
+
+How would you modify the existing UPDATE statement to give all employees in the IT department a 10% raise
+
+	UPDATE Employees
+	SET Salary = Salary * 1.10
+	WHERE Department = 'IT';
+
+
+Write a SELECT statement to find the highest salary in the Employees table.
+
+	SELECT MAX(Salary) AS HighestSalary
+	FROM Employees;
+
+How would you add a new column named "HireDate" of type DATE to the Employees table?
+
+	ALTER TABLE Employees
+	ADD HireDate DATE;
+
+Write an INSERT statement to add a new employee named "Sarah Brown" in the "Marketing" department with a salary of 72000.00.
+
+	INSERT INTO Employees (FirstName, LastName, Department, Salary)
+	VALUES ('Sarah', 'Brown', 'Marketing', 72000.00);
+
+How would you modify the table to ensure that the Salary column cannot contain negative values?
+
+	ALTER TABLE Employees
+	ADD CONSTRAINT chk_Salary_Positive CHECK (Salary >= 0);
+
+How would you add a UNIQUE constraint to the Employees table to ensure that no two employees can have the same email address
+
+	ALTER TABLE Employees
+	ADD Email VARCHAR(255);
+
+	ALTER TABLE Employees
+	ADD CONSTRAINT UQ_Employees_Email UNIQUE (Email);
+
+
+Write an ALTER TABLE statement to add an "Email" column to the Employees table with a UNIQUE constraint that allows NULL values
+
+	ALTER TABLE Employees
+	ADD Email VARCHAR(255) NULL
+	CONSTRAINT UQ_Employees_Email UNIQUE;

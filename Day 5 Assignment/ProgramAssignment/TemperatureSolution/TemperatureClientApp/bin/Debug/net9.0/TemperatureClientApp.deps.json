@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "TemperatureClientApp/1.0.0": {
+        "dependencies": {
+          "TemperatureConverterLib": "1.0.0"
+        },
+        "runtime": {
+          "TemperatureClientApp.dll": {}
+        }
+      },
+      "TemperatureConverterLib/1.0.0": {
+        "runtime": {
+          "TemperatureConverterLib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TemperatureClientApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TemperatureConverterLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
