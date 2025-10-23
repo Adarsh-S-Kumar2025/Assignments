@@ -1,0 +1,14 @@
+C:\Users\adarsh.s\source\repos\EmployeeManagement\EmployeeManagement\bin\Debug\net9.0\EmployeeManagement.exe
+C:\Users\adarsh.s\source\repos\EmployeeManagement\EmployeeManagement\bin\Debug\net9.0\EmployeeManagement.deps.json
+C:\Users\adarsh.s\source\repos\EmployeeManagement\EmployeeManagement\bin\Debug\net9.0\EmployeeManagement.runtimeconfig.json
+C:\Users\adarsh.s\source\repos\EmployeeManagement\EmployeeManagement\bin\Debug\net9.0\EmployeeManagement.dll
+C:\Users\adarsh.s\source\repos\EmployeeManagement\EmployeeManagement\bin\Debug\net9.0\EmployeeManagement.pdb
+C:\Users\adarsh.s\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\net9.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adarsh.s\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\net9.0\EmployeeManagement.AssemblyInfoInputs.cache
+C:\Users\adarsh.s\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\net9.0\EmployeeManagement.AssemblyInfo.cs
+C:\Users\adarsh.s\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\net9.0\EmployeeManagement.csproj.CoreCompileInputs.cache
+C:\Users\adarsh.s\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\net9.0\EmployeeManagement.dll
+C:\Users\adarsh.s\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\net9.0\refint\EmployeeManagement.dll
+C:\Users\adarsh.s\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\net9.0\EmployeeManagement.pdb
+C:\Users\adarsh.s\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\net9.0\EmployeeManagement.genruntimeconfig.cache
+C:\Users\adarsh.s\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\net9.0\ref\EmployeeManagement.dll
