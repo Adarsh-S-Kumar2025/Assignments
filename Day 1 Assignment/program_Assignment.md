@@ -24,7 +24,7 @@ START
   INPUT a, b, c
   IF a > b AND a > c THEN
       PRINT "a is largest"
-  ELSE IF b > a AND b > c THEN
+  ELSE IF b > c THEN
       PRINT "b is largest"
   ELSE
       PRINT "c is largest"
