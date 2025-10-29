@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adarsh.s\\source\\repos\\TemperatureSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A601B7D1-8DE9-4004-BC88-19FDD0CED28F}|TemperatureClientApp\\TemperatureClientApp.csproj|c:\\users\\adarsh.s\\source\\repos\\temperaturesolution\\temperatureclientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A601B7D1-8DE9-4004-BC88-19FDD0CED28F}|TemperatureClientApp\\TemperatureClientApp.csproj|solutionrelative:temperatureclientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749C3388-042C-4862-B48D-26005AA6FFF9}|TemperatureConverterLib\\TemperatureConverterLib.csproj|c:\\users\\adarsh.s\\source\\repos\\temperaturesolution\\temperatureconverterlib\\temperaturevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749C3388-042C-4862-B48D-26005AA6FFF9}|TemperatureConverterLib\\TemperatureConverterLib.csproj|solutionrelative:temperatureconverterlib\\temperaturevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749C3388-042C-4862-B48D-26005AA6FFF9}|TemperatureConverterLib\\TemperatureConverterLib.csproj|c:\\users\\adarsh.s\\source\\repos\\temperaturesolution\\temperatureconverterlib\\temperatureconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749C3388-042C-4862-B48D-26005AA6FFF9}|TemperatureConverterLib\\TemperatureConverterLib.csproj|solutionrelative:temperatureconverterlib\\temperatureconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\TemperatureSolution\\TemperatureClientApp\\Program.cs",
+              "RelativeDocumentMoniker": "TemperatureClientApp\\Program.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\TemperatureSolution\\TemperatureClientApp\\Program.cs*",
+              "RelativeToolTip": "TemperatureClientApp\\Program.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA6wB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T11:06:19.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TemperatureValidator.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\TemperatureSolution\\TemperatureConverterLib\\TemperatureValidator.cs",
+              "RelativeDocumentMoniker": "TemperatureConverterLib\\TemperatureValidator.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\TemperatureSolution\\TemperatureConverterLib\\TemperatureValidator.cs",
+              "RelativeToolTip": "TemperatureConverterLib\\TemperatureValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T11:04:52.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TemperatureConverter.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\TemperatureSolution\\TemperatureConverterLib\\TemperatureConverter.cs",
+              "RelativeDocumentMoniker": "TemperatureConverterLib\\TemperatureConverter.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\TemperatureSolution\\TemperatureConverterLib\\TemperatureConverter.cs",
+              "RelativeToolTip": "TemperatureConverterLib\\TemperatureConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T11:03:10.469Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
