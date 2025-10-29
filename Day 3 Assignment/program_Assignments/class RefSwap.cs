@@ -1,6 +1,6 @@
-﻿class RefSwap
+class RefSwap
 {
-    public static void Swap( int a,  int b)
+    public static void Swap(ref int a, ref int b)
     {
         int temp = a;
         a = b;
@@ -11,7 +11,7 @@
     {
         int x = 10, y = 20;
         Console.WriteLine($"Before Swap: x = {x}, y = {y}");
-        Swap( x, y);
+        Swap(ref x, ref y);
         Console.WriteLine($"After Swap: x = {x}, y = {y}");
     }
 }
