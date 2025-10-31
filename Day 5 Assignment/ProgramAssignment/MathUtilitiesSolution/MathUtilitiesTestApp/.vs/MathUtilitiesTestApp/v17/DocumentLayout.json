@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adarsh.s\\source\\repos\\MathUtilitiesSolution\\MathUtilitiesTestApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDFA333-ACE9-4FD7-BD65-B3D10904B358}|MathUtilitiesTestApp\\MathUtilitiesTestApp.csproj|c:\\users\\adarsh.s\\source\\repos\\mathutilitiessolution\\mathutilitiestestapp\\mathutilitiestestapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FDFA333-ACE9-4FD7-BD65-B3D10904B358}|MathUtilitiesTestApp\\MathUtilitiesTestApp.csproj|solutionrelative:mathutilitiestestapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91443D41-D5B5-4B6D-8201-3E3860C64977}|MathUtilities\\MathUtilities.csproj|c:\\users\\adarsh.s\\source\\repos\\mathutilitiessolution\\mathutilitiestestapp\\mathutilities\\mathutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91443D41-D5B5-4B6D-8201-3E3860C64977}|MathUtilities\\MathUtilities.csproj|solutionrelative:mathutilities\\mathutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FDFA333-ACE9-4FD7-BD65-B3D10904B358}|MathUtilitiesTestApp\\MathUtilitiesTestApp.csproj|c:\\users\\adarsh.s\\source\\repos\\mathutilitiessolution\\mathutilitiestestapp\\mathutilitiestestapp\\mathutilitiestestapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7FDFA333-ACE9-4FD7-BD65-B3D10904B358}|MathUtilitiesTestApp\\MathUtilitiesTestApp.csproj|solutionrelative:mathutilitiestestapp\\mathutilitiestestapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MathUtilitiesTestApp",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\MathUtilitiesSolution\\MathUtilitiesTestApp\\MathUtilitiesTestApp\\MathUtilitiesTestApp.csproj",
+              "RelativeDocumentMoniker": "MathUtilitiesTestApp\\MathUtilitiesTestApp.csproj",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\MathUtilitiesSolution\\MathUtilitiesTestApp\\MathUtilitiesTestApp\\MathUtilitiesTestApp.csproj",
+              "RelativeToolTip": "MathUtilitiesTestApp\\MathUtilitiesTestApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-22T06:30:26.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MathUtils.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\MathUtilitiesSolution\\MathUtilitiesTestApp\\MathUtilities\\MathUtils.cs",
+              "RelativeDocumentMoniker": "MathUtilities\\MathUtils.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\MathUtilitiesSolution\\MathUtilitiesTestApp\\MathUtilities\\MathUtils.cs",
+              "RelativeToolTip": "MathUtilities\\MathUtils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T06:30:00.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\MathUtilitiesSolution\\MathUtilitiesTestApp\\MathUtilitiesTestApp\\Program.cs",
+              "RelativeDocumentMoniker": "MathUtilitiesTestApp\\Program.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\MathUtilitiesSolution\\MathUtilitiesTestApp\\MathUtilitiesTestApp\\Program.cs",
+              "RelativeToolTip": "MathUtilitiesTestApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T06:28:41.932Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
