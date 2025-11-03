@@ -1,4 +1,5 @@
-﻿using System;
+using System;
+using System.Diagnostics.Metrics;
 
 namespace EmployeeManagement
 {
@@ -27,6 +28,17 @@ namespace EmployeeManagement
             Salary = salary;
             EmployeeType = employeeType;
         }
+        // Static method to get number of employees
+        public static int GetEmployeeCount()
+        {
+            return idCounter - 1000;
+        }
+
+        // Static method to get next available employee ID
+        public static string GetNextEmployeeId()
+        {
+            return "Emp" + idCounter;
+        }
 
         // Display employee info
         public void DisplayDetails()
@@ -52,7 +64,9 @@ namespace EmployeeManagement
             emp1.DisplayDetails();
             emp2.DisplayDetails();
             emp3.DisplayDetails();
-
+            // Display static info
+            Console.WriteLine($"Total Employees: {Employee.GetEmployeeCount()}");
+            Console.WriteLine($"Next Available Employee ID: {Employee.GetNextEmployeeId()}");
             Console.ReadLine();
         }
     }
