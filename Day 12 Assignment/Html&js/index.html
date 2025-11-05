@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript Tasks</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 0;
+        }
+        div.task {
+            margin-bottom: 30px;
+            padding: 15px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+        }
+        button {
+            margin-top: 5px;
+        }
+        ul {
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Task 1: Display User Input Type -->
+    <div class="task">
+        <h3>1. Display User Input Type</h3>
+        <input type="text" id="inputTypeBox" placeholder="Type something">
+        <button onclick="displayInputType()">Submit</button>
+        <p id="inputTypeResult"></p>
+    </div>
+
+    <!-- Task 2: Sum of Two Numbers -->
+    <div class="task">
+        <h3>2. Sum of Two Numbers</h3>
+        <input type="number" id="num1" placeholder="Number 1">
+        <input type="number" id="num2" placeholder="Number 2">
+        <button onclick="calculateSum()">Calculate</button>
+        <p id="sumResult"></p>
+    </div>
+
+    <!-- Task 3: Boolean Toggle Message -->
+    <div class="task">
+        <h3>3. Boolean Toggle Message</h3>
+        <button onclick="toggleMessage()">Show Message</button>
+        <p id="toggleMsg" style="display:none;">Hello World!</p>
+    </div>
+
+    <!-- Task 4: Array of Favorite Colors -->
+    <div class="task">
+        <h3>4. Array of Favorite Colors</h3>
+        <input type="text" id="colorInput" placeholder="Enter a color">
+        <button onclick="addColor()">Add Color</button>
+        <ul id="colorList"></ul>
+    </div>
+
+    <!-- Task 5: Object Display -->
+    <div class="task">
+        <h3>5. Object Display</h3>
+        <button onclick="showStudentInfo()">Show Student Info</button>
+        <p id="studentInfo"></p>
+    </div>
+
+    <!-- Task 6: Change Background Color -->
+    <div class="task">
+        <h3>6. Change Background Color</h3>
+        <button onclick="changeBackground('red')">Red</button>
+        <button onclick="changeBackground('green')">Green</button>
+        <button onclick="changeBackground('blue')">Blue</button>
+    </div>
+
+    <script>
+        // Task 1
+        function displayInputType() {
+            const value = document.getElementById('inputTypeBox').value;
+            let detectedType = value;
+
+            // Detect number
+            if (!isNaN(value) && value.trim() !== '') {
+                detectedType = Number(value);
+            } else if (value.toLowerCase() === "true" || value.toLowerCase() === "false") {
+                detectedType = (value.toLowerCase() === "true");
+            }
+
+            document.getElementById('inputTypeResult').innerHTML = 
+                `Value: ${value} <br> Type: ${typeof detectedType}`;
+        }
+
+        // Task 2
+        function calculateSum() {
+            const num1 = parseFloat(document.getElementById('num1').value) || 0;
+            const num2 = parseFloat(document.getElementById('num2').value) || 0;
+            document.getElementById('sumResult').innerText = `Sum: ${num1 + num2}`;
+        }
+
+        // Task 3
+        let isMessageVisible = false;
+        function toggleMessage() {
+            const msg = document.getElementById('toggleMsg');
+            isMessageVisible = !isMessageVisible;
+            msg.style.display = isMessageVisible ? 'block' : 'none';
+        }
+
+        // Task 4
+        const colors = [];
+        function addColor() {
+            const color = document.getElementById('colorInput').value.trim();
+            if (color) {
+                colors.push(color);
+                const list = document.getElementById('colorList');
+                list.innerHTML = colors.map(c => `<li>${c}</li>`).join('');
+                document.getElementById('colorInput').value = '';
+            }
+        }
+
+        // Task 5
+        const student = {
+            name: "John Doe",
+            age: 20,
+            grade: "A"
+        };
+        function showStudentInfo() {
+            document.getElementById('studentInfo').innerHTML =
+                `Name: ${student.name} <br> Age: ${student.age} <br> Grade: ${student.grade}`;
+        }
+
+        // Task 6
+        function changeBackground(color) {
+            document.body.style.backgroundColor = color;
+        }
+    </script>
+</body>
+</html>

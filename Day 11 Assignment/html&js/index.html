@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Assignment Tasks</title>
+  <style>
+    /* 1. TABLE STYLING */
+    table {
+    border-collapse: collapse;
+    width: 100%; 
+    font-family: Arial, sans-serif;
+  }
+  th, td {
+    border: 1px solid #ccc; 
+    padding: 8px;          
+    text-align: left;      
+  }
+
+   th {
+    background-color: #e9e9e9; 
+  }
+
+
+  td:first-child {
+    font-weight: bold;
+  }
+
+  tr:nth-child(even) {
+    background-color: #f8f8f8;
+  }
+    /* 3. LIST STYLING */
+    ul.color-list li {
+    list-style: none;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+    }
+
+    ul.color-list li:nth-child(odd) {
+    background: black;
+    color: white;
+    }
+
+    ul.color-list li:nth-child(even) {
+    background: white;
+    color: black;
+    border: 1px solid #ccc;
+    }
+
+    /* 4. NESTED LIST STYLING */
+    .block-list {
+    font-family: Arial, sans-serif;
+    list-style-type: none;  
+    padding: 0;
+    width: 300px;  
+  }
+
+  
+  .block-list li {
+    background-color: #d3d3d3;  
+    padding: 12px 15px;       
+    margin-bottom: 8px;       
+  }
+
+   .block-list li.indented {
+    margin-left: 40px; 
+    
+  }
+    button {
+      padding: 10px 20px;
+      background-color: #2196F3;
+      color: white;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+
+    button:hover {
+      background-color: #0b7dda;
+    }
+  </style>
+</head>
+<body>
+
+  <h2>1. Table Creation</h2>
+  <table>
+    <tr>
+      <th>State</th>
+      <th>chief Minister</th>
+      <th>Capital</th>
+    </tr>
+    <tr>
+      <td>Andhra</td>
+      <td>Jagan</td>
+      <td>Amaravati</td>
+    </tr>
+    <tr>
+      <td>Telangana</td>
+      <td>KCR</td>
+      <td>Hyderabad</td>
+    </tr>
+    <tr>
+      <td>Karnataka</td>
+      <td>Bommai</td>
+      <td>Bangalore</td>
+    </tr>
+    <tr>
+        <td>Maharastra</td>
+        <td>Uddav Thakery</td>
+        <td>Mumbai</td>
+      </tr>
+      <tr>
+        <td>Kerala</td>
+        <td>Pinnarai</td>
+        <td>Trivandrum</td>
+      </tr>
+  </table>
+
+  <h2>2. Create Link</h2>
+  <p>
+    <a href="https://www.google.com">Open Google (Same Page)</a>
+  </p>
+  <p>
+    <a href="https://www.google.com" target="_blank">Open Google (New Page)</a>
+  </p>
+
+  <h2>3. Create List</h2>
+  <ul class="color-list">
+    <li>One</li>
+    <li>Two</li>
+    <li>Three</li>
+    <li>Four</li>
+    <li>Five</li>
+    <li>six</li>
+  </ul>
+
+  <h2>4. Nested List</h2>
+  <ul class="block-list">
+    <li>1</li>
+    <li class="indented">1.1</li>
+    <li class="indented">1.2</li>
+    <li>2</li>
+    <li class="indented">2.1</li>
+    <li class="indented">2.2</li>
+    <li class="indented">2.3</li>
+  </ul>
+
+  <h2>5. Alert Button</h2>
+  <button onclick="showAlert()">Alert Me</button>
+
+  <h2>6. Leap Year Check</h2>
+  <p>Check console for leap year test.</p>
+
+  <script>
+    // 5. Alert Function
+function showAlert() {
+    alert("Hello World");
+  }
+  
+  // 6. Leap Year Function
+  function isLeapYear(year) {
+    if ((year % 4 === 0 && year % 100 !== 0) || (year % 400 === 0)) {
+      return `${year} is a Leap Year.`;
+    } else {
+      return `${year} is NOT a Leap Year.`;
+    }
+  }
+  
+  // Example check — prints in console
+  console.log(isLeapYear(2024));
+  console.log(isLeapYear(2025));
+  
+  </script>
+</body>
+</html>

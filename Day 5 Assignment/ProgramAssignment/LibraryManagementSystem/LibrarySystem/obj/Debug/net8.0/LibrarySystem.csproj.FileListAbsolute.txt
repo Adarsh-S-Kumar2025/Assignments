@@ -1,0 +1,11 @@
+C:\Users\adarsh.s\Desktop\LibraryManagementSystem\LibrarySystem\bin\Debug\net8.0\LibrarySystem.deps.json
+C:\Users\adarsh.s\Desktop\LibraryManagementSystem\LibrarySystem\bin\Debug\net8.0\LibrarySystem.dll
+C:\Users\adarsh.s\Desktop\LibraryManagementSystem\LibrarySystem\bin\Debug\net8.0\LibrarySystem.pdb
+C:\Users\adarsh.s\Desktop\LibraryManagementSystem\LibrarySystem\obj\Debug\net8.0\LibrarySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adarsh.s\Desktop\LibraryManagementSystem\LibrarySystem\obj\Debug\net8.0\LibrarySystem.AssemblyInfoInputs.cache
+C:\Users\adarsh.s\Desktop\LibraryManagementSystem\LibrarySystem\obj\Debug\net8.0\LibrarySystem.AssemblyInfo.cs
+C:\Users\adarsh.s\Desktop\LibraryManagementSystem\LibrarySystem\obj\Debug\net8.0\LibrarySystem.csproj.CoreCompileInputs.cache
+C:\Users\adarsh.s\Desktop\LibraryManagementSystem\LibrarySystem\obj\Debug\net8.0\LibrarySystem.dll
+C:\Users\adarsh.s\Desktop\LibraryManagementSystem\LibrarySystem\obj\Debug\net8.0\refint\LibrarySystem.dll
+C:\Users\adarsh.s\Desktop\LibraryManagementSystem\LibrarySystem\obj\Debug\net8.0\LibrarySystem.pdb
+C:\Users\adarsh.s\Desktop\LibraryManagementSystem\LibrarySystem\obj\Debug\net8.0\ref\LibrarySystem.dll
