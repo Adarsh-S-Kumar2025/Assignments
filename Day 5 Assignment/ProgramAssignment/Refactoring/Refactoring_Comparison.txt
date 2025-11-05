@@ -1,0 +1,62 @@
+Refactoring Comparison Document
+===================================
+
+Task: Refactor poorly named C# code to follow naming conventions and use meaningful identifiers.
+
+-----------------------------------
+Original Code
+-----------------------------------
+public class emp
+{ 
+    public string n;
+    public int a;
+    public double s;
+
+    public void calc()
+    { 
+        double x = s * 0.1; 
+        double y = s + x; 
+    } 
+}
+
+-----------------------------------
+Refactored Code
+-----------------------------------
+public class Employee
+{
+    public string Name { get; set; }
+    public int Age { get; set; }
+    public double Salary { get; set; }
+
+    public void CalculateBonus()
+    {
+        double bonus = Salary * 0.1;
+        double totalCompensation = Salary + bonus;
+
+        Console.WriteLine($"Bonus: {bonus}, Total Compensation: {totalCompensation}");
+    }
+}
+
+-----------------------------------
+Comparison Table
+-----------------------------------
+Original Element      | Refactored Element         | Reason for Change
+----------------------|----------------------------|---------------------------------------------
+class emp             | class Employee             | Class names use PascalCase and should be descriptive nouns.
+string n              | string Name                | Descriptive and follows PascalCase for public property.
+int a                 | int Age                    | Gives clear meaning to what the integer represents.
+double s              | double Salary              | Meaningful variable name for clarity.
+void calc()           | void CalculateBonus()      | Methods use PascalCase and describe an action.
+double x              | double bonus               | Local variable should describe purpose (bonus).
+double y              | double totalCompensation   | Descriptive name makes calculation understandable.
+Public fields         | Public properties          | Follows encapsulation best practices in C#.
+No output             | Added Console.WriteLine()  | Provides feedback/output for verification.
+
+-----------------------------------
+Summary of Improvements
+-----------------------------------
+- Applied C# naming conventions (PascalCase for class, methods, and properties).
+- Replaced single-letter names with meaningful identifiers.
+- Used properties instead of public fields for encapsulation.
+- Improved readability and maintainability.
+- Ensured code communicates its purpose clearly.
