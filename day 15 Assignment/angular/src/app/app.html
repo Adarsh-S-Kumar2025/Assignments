@@ -1,0 +1,40 @@
+<h2>1. Table Creation</h2>
+<table>
+  <tr>
+    <th>State</th>
+    <th>Chief Minister</th>
+    <th>Capital</th>
+  </tr>
+  <tr *ngFor="let s of states">
+    <td>{{ s.state }}</td>
+    <td>{{ s.cm }}</td>
+    <td>{{ s.capital }}</td>
+  </tr>
+</table>
+
+<h2>2. Create Link</h2>
+<p><a href="https://www.google.com">Open Google (Same Page)</a></p>
+<p><a href="https://www.google.com" target="_blank">Open Google (New Page)</a></p>
+
+<h2>3. Create List</h2>
+<ul class="color-list">
+  <li *ngFor="let item of colorList; let i = index" [ngClass]="{odd: i % 2 === 0, even: i % 2 !== 0}">
+    {{ item }}
+  </li>
+</ul>
+
+<h2>4. Nested List</h2>
+<ul class="block-list">
+  <li>1</li>
+  <li class="indented">1.1</li>
+  <li class="indented">1.2</li>
+  <li>2</li>
+  <li class="indented">2.1</li>
+  <li class="indented">2.2</li>
+  <li class="indented">2.3</li>
+</ul>
+<h2>5. Alert Button</h2>
+<button (click)="showAlert()">Alert Me</button>
+
+<h2>6. Leap Year Check</h2>
+<p>Check console for leap year test.</p>
