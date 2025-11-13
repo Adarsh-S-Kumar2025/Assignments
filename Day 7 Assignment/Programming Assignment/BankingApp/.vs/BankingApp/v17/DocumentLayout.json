@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adarsh.s\\source\\repos\\BankingApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDF1C28-92E0-4F2F-ADC8-465E03789A8E}|BankingApp\\BankingApp.csproj|c:\\users\\adarsh.s\\source\\repos\\bankingapp\\bankingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EDF1C28-92E0-4F2F-ADC8-465E03789A8E}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDF1C28-92E0-4F2F-ADC8-465E03789A8E}|BankingApp\\BankingApp.csproj|c:\\users\\adarsh.s\\source\\repos\\bankingapp\\bankingapp\\paymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EDF1C28-92E0-4F2F-ADC8-465E03789A8E}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\paymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDF1C28-92E0-4F2F-ADC8-465E03789A8E}|BankingApp\\BankingApp.csproj|c:\\users\\adarsh.s\\source\\repos\\bankingapp\\bankingapp\\payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EDF1C28-92E0-4F2F-ADC8-465E03789A8E}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EDF1C28-92E0-4F2F-ADC8-465E03789A8E}|BankingApp\\BankingApp.csproj|c:\\users\\adarsh.s\\source\\repos\\bankingapp\\bankingapp\\accounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EDF1C28-92E0-4F2F-ADC8-465E03789A8E}|BankingApp\\BankingApp.csproj|solutionrelative:bankingapp\\accounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Accounts.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\BankingApp\\BankingApp\\Accounts.cs",
+              "RelativeDocumentMoniker": "BankingApp\\Accounts.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\BankingApp\\BankingApp\\Accounts.cs",
+              "RelativeToolTip": "BankingApp\\Accounts.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T11:40:43.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\BankingApp\\BankingApp\\PaymentProcessor.cs",
+              "RelativeDocumentMoniker": "BankingApp\\PaymentProcessor.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\BankingApp\\BankingApp\\PaymentProcessor.cs",
+              "RelativeToolTip": "BankingApp\\PaymentProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T11:39:48.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Payments.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\BankingApp\\BankingApp\\Payments.cs",
+              "RelativeDocumentMoniker": "BankingApp\\Payments.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\BankingApp\\BankingApp\\Payments.cs",
+              "RelativeToolTip": "BankingApp\\Payments.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T11:38:17.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adarsh.s\\source\\repos\\BankingApp\\BankingApp\\Program.cs",
+              "RelativeDocumentMoniker": "BankingApp\\Program.cs",
+              "ToolTip": "C:\\Users\\adarsh.s\\source\\repos\\BankingApp\\BankingApp\\Program.cs",
+              "RelativeToolTip": "BankingApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T08:29:11.134Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

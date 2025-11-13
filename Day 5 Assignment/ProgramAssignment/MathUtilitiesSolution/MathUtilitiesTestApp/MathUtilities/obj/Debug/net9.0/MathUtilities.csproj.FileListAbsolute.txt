@@ -1,0 +1,11 @@
+C:\Users\adarsh.s\source\repos\MathUtilitiesSolution\MathUtilitiesTestApp\MathUtilities\obj\Debug\net9.0\MathUtilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adarsh.s\source\repos\MathUtilitiesSolution\MathUtilitiesTestApp\MathUtilities\obj\Debug\net9.0\MathUtilities.AssemblyInfoInputs.cache
+C:\Users\adarsh.s\source\repos\MathUtilitiesSolution\MathUtilitiesTestApp\MathUtilities\obj\Debug\net9.0\MathUtilities.AssemblyInfo.cs
+C:\Users\adarsh.s\source\repos\MathUtilitiesSolution\MathUtilitiesTestApp\MathUtilities\obj\Debug\net9.0\MathUtilities.csproj.CoreCompileInputs.cache
+C:\Users\adarsh.s\source\repos\MathUtilitiesSolution\MathUtilitiesTestApp\MathUtilities\bin\Debug\net9.0\MathUtilities.deps.json
+C:\Users\adarsh.s\source\repos\MathUtilitiesSolution\MathUtilitiesTestApp\MathUtilities\bin\Debug\net9.0\MathUtilities.dll
+C:\Users\adarsh.s\source\repos\MathUtilitiesSolution\MathUtilitiesTestApp\MathUtilities\bin\Debug\net9.0\MathUtilities.pdb
+C:\Users\adarsh.s\source\repos\MathUtilitiesSolution\MathUtilitiesTestApp\MathUtilities\obj\Debug\net9.0\MathUtilities.dll
+C:\Users\adarsh.s\source\repos\MathUtilitiesSolution\MathUtilitiesTestApp\MathUtilities\obj\Debug\net9.0\refint\MathUtilities.dll
+C:\Users\adarsh.s\source\repos\MathUtilitiesSolution\MathUtilitiesTestApp\MathUtilities\obj\Debug\net9.0\MathUtilities.pdb
+C:\Users\adarsh.s\source\repos\MathUtilitiesSolution\MathUtilitiesTestApp\MathUtilities\obj\Debug\net9.0\ref\MathUtilities.dll
