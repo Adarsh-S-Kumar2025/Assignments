@@ -1,0 +1,14 @@
+C:\Users\adarsh.s\source\repos\TwoLibrariesWithSameClassName\TwoLibrariesWithSameClassName\bin\Debug\net9.0\TwoLibrariesWithSameClassName.exe
+C:\Users\adarsh.s\source\repos\TwoLibrariesWithSameClassName\TwoLibrariesWithSameClassName\bin\Debug\net9.0\TwoLibrariesWithSameClassName.deps.json
+C:\Users\adarsh.s\source\repos\TwoLibrariesWithSameClassName\TwoLibrariesWithSameClassName\bin\Debug\net9.0\TwoLibrariesWithSameClassName.runtimeconfig.json
+C:\Users\adarsh.s\source\repos\TwoLibrariesWithSameClassName\TwoLibrariesWithSameClassName\bin\Debug\net9.0\TwoLibrariesWithSameClassName.dll
+C:\Users\adarsh.s\source\repos\TwoLibrariesWithSameClassName\TwoLibrariesWithSameClassName\bin\Debug\net9.0\TwoLibrariesWithSameClassName.pdb
+C:\Users\adarsh.s\source\repos\TwoLibrariesWithSameClassName\TwoLibrariesWithSameClassName\obj\Debug\net9.0\TwoLibrariesWithSameClassName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adarsh.s\source\repos\TwoLibrariesWithSameClassName\TwoLibrariesWithSameClassName\obj\Debug\net9.0\TwoLibrariesWithSameClassName.AssemblyInfoInputs.cache
+C:\Users\adarsh.s\source\repos\TwoLibrariesWithSameClassName\TwoLibrariesWithSameClassName\obj\Debug\net9.0\TwoLibrariesWithSameClassName.AssemblyInfo.cs
+C:\Users\adarsh.s\source\repos\TwoLibrariesWithSameClassName\TwoLibrariesWithSameClassName\obj\Debug\net9.0\TwoLibrariesWithSameClassName.csproj.CoreCompileInputs.cache
+C:\Users\adarsh.s\source\repos\TwoLibrariesWithSameClassName\TwoLibrariesWithSameClassName\obj\Debug\net9.0\TwoLibrariesWithSameClassName.dll
+C:\Users\adarsh.s\source\repos\TwoLibrariesWithSameClassName\TwoLibrariesWithSameClassName\obj\Debug\net9.0\refint\TwoLibrariesWithSameClassName.dll
+C:\Users\adarsh.s\source\repos\TwoLibrariesWithSameClassName\TwoLibrariesWithSameClassName\obj\Debug\net9.0\TwoLibrariesWithSameClassName.pdb
+C:\Users\adarsh.s\source\repos\TwoLibrariesWithSameClassName\TwoLibrariesWithSameClassName\obj\Debug\net9.0\TwoLibrariesWithSameClassName.genruntimeconfig.cache
+C:\Users\adarsh.s\source\repos\TwoLibrariesWithSameClassName\TwoLibrariesWithSameClassName\obj\Debug\net9.0\ref\TwoLibrariesWithSameClassName.dll
